@@ -1,0 +1,55 @@
+@font-face {
+    font-family: hgs4b;
+    src: url(../fonts/HurmeGeometricSans4 Bold);
+    src: url("../fonts/HurmeGeometricSans4 Bold.eot?#iefix") format("embedded-opentype"),
+         url("../fonts/HurmeGeometricSans4 Bold.woff") format("woff"),
+         url("../fonts/HurmeGeometricSans4 Bold.ttf") format("truetype"),
+         url("../fonts/HurmeGeometricSans4 Bold.svg#HurmeGeometricSans4 Bold") format("svg");
+}
+.hgs4b{
+    font-family: 'hgs4b',Arial, sans-serif;
+}
+@font-face {
+    font-family: hgs4l;
+    src: url(../fonts/HurmeGeometricSans4 Light);
+    src: url("../fonts/HurmeGeometricSans4 Light.eot?#iefix") format("embedded-opentype"),
+         url("../fonts/HurmeGeometricSans4 Light.woff") format("woff"),
+         url("../fonts/HurmeGeometricSans4 Light.ttf") format("truetype"),
+         url("../fonts/HurmeGeometricSans4 Light.svg#HurmeGeometricSans4 Light") format("svg");
+}
+.hgs4l{
+    font-family: 'hgs4l',Arial, sans-serif;
+}
+@font-face {
+    font-family: hgs4bo;
+    src: url(../fonts/HurmeGeometricSans4 LightOblique);
+    src: url("../fonts/HurmeGeometricSans4 LightOblique.eot?#iefix") format("embedded-opentype"),
+         url("../fonts/HurmeGeometricSans4 LightOblique.woff") format("woff"),
+         url("../fonts/HurmeGeometricSans4 LightOblique.ttf") format("truetype"),
+         url("../fonts/HurmeGeometricSans4 LightOblique.svg#HurmeGeometricSans4 LightOblique") format("svg");
+}
+.hgs4bo{
+    font-family: 'hgs4bo',Arial, sans-serif;
+}
+@font-face {
+    font-family: hgs4;
+    src: url("../fonts/HurmeGeometricSans4");
+    src: url("../fonts/HurmeGeometricSans4.eot?#iefix") format("embedded-opentype"),
+         url("../fonts/HurmeGeometricSans4.woff") format("woff"),
+         url("../fonts/HurmeGeometricSans4.ttf") format("truetype"),
+         url("../fonts/HurmeGeometricSans4.svg#HurmeGeometricSans4") format("svg");
+}
+.hgs4{
+    font-family: 'hgs4',Arial, sans-serif;
+}
+@font-face {
+    font-family: arjunn;
+    src: url(font/arjunn);
+    src: url("font/arjunn.eot?#iefix") format("embedded-opentype"),
+         url("font/arjunn.woff") format("woff"),
+         url("font/arjunn.ttf") format("truetype"),
+         url("font/arjunn.svg#HurmeGeometricSans4 Bold") format("svg");
+}
+.arjunn{
+    font-family: 'arjunn',Arial, sans-serif;
+}
